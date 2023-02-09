@@ -25,6 +25,5 @@ Danny wants to use the data to answer a few simple questions about his customers
     not just sushi - how many points do customer A and B have at the end of January?
 
 
-
 ***
 
